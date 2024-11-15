@@ -55,3 +55,4 @@ test-timings.json
 *.tsbuildinfo
 .swc/
 .turbo
+.yahoo
